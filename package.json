@@ -1,0 +1,21 @@
+{
+  "name": "warecloud-api",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "main": "server.js",
+  "author": "Rémi Weislinger <remi.weislinger@epitech.eu>",
+  "contributors": [],
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.4.0",
+    "mongoose": "^4.9.7",
+    "morgan": "^1.8.1"
+  }
+}
